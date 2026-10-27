@@ -1,0 +1,6 @@
+{
+  "name": "Kyzart Village Guesthouse",
+  "description": "Family-run guesthouse in Kyzart village, Naryn Region, Kyrgyzstan. Cozy rooms, homemade Kyrgyz food and guided horseback riding tours to Son-Kul Lake.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
